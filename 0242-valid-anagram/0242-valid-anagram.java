@@ -7,16 +7,19 @@ class Solution {
 
         if(a==b){
             for(int i=0;i<a;i++){
-                map1.put(s.charAt(i),map1.getOrDefault(s.charAt(i),0)+1);
+                char ch = s.charAt(i);
+                map1.put(ch,map1.getOrDefault(ch,0)+1);
             }
 
             int n = b-1;
             for(int j=0;j<b;j++){
-                if(map1.containsKey(t.charAt(j))){
-                    map1.put(t.charAt(j), map1.get(t.charAt(j))-1);
-                    if(map1.get(t.charAt(j))==0){
-                        map1.remove(t.charAt(j));
-                    }
+                char ch = t.charAt(j);
+                if(!map1.containsKey(ch)){
+                    return false;
+                }
+                map1.put(ch, map1.get(ch)-1);
+                if(map1.get(ch)==0){
+                    map1.remove(ch);
                 }
             }
             return map1.isEmpty();
