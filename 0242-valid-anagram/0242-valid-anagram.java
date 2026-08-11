@@ -19,10 +19,7 @@ class Solution {
                     }
                 }
             }
-            if(map1.isEmpty()){
-                return true;
-            }
-            return false;
+            return map1.isEmpty();
         }
         
         return false;
