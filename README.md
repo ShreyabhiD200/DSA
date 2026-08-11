@@ -9,6 +9,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ShreyabhiD200/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShreyabhiD200/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/ShreyabhiD200/DSA/tree/master/1768-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ShreyabhiD200/DSA/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ShreyabhiD200/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
