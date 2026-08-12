@@ -11,7 +11,6 @@ class Solution {
                 map1.put(ch,map1.getOrDefault(ch,0)+1);
             }
 
-            int n = b-1;
             for(int j=0;j<b;j++){
                 char ch = t.charAt(j);
                 if(!map1.containsKey(ch)){
