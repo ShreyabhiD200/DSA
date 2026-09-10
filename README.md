@@ -18,15 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ShreyabhiD200/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ShreyabhiD200/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyabhiD200/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ShreyabhiD200/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ShreyabhiD200/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyabhiD200/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ShreyabhiD200/DSA/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyabhiD200/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
@@ -44,4 +47,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/ShreyabhiD200/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ShreyabhiD200/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/ShreyabhiD200/DSA/tree/master/1934-confirmation-rate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyabhiD200/DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyabhiD200/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyabhiD200/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyabhiD200/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyabhiD200/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
