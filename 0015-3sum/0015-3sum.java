@@ -1,7 +1,8 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
-        List<List<Integer>> doublelist = new ArrayList<>();
+       // List<List<Integer>> doublelist = new ArrayList<>();
+        List<List<Integer>> list = new ArrayList<>();
         for(int i=0;i<nums.length;i++){
             if(i>0 && nums[i]==nums[i-1]){
                 continue;
@@ -15,11 +16,12 @@ class Solution {
                 } else if(sum > 0){
                     k--;
                 } else if(sum == 0){
-                    List<Integer> singlelist = new ArrayList<>();
-                    singlelist.add(nums[j]);
-                    singlelist.add(nums[i]);
-                    singlelist.add(nums[k]);
-                    doublelist.add(singlelist);
+                    // List<Integer> singlelist = new ArrayList<>();
+                    // singlelist.add(nums[j]);
+                    // singlelist.add(nums[i]);
+                    // singlelist.add(nums[k]);
+                    // doublelist.add(singlelist);
+                    list.add(Arrays.asList(nums[i],nums[j],nums[k]));
                     j++;
                     k--;
                     while(j<k && nums[j]==nums[j-1]){
@@ -31,6 +33,7 @@ class Solution {
                 }
             }
         }
-        return doublelist;
+        // return doublelist;
+        return list;
     }
 }
