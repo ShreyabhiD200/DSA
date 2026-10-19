@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ShreyabhiD200/DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/ShreyabhiD200/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShreyabhiD200/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShreyabhiD200/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ShreyabhiD200/DSA/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/ShreyabhiD200/DSA/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ShreyabhiD200/DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/ShreyabhiD200/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyabhiD200/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShreyabhiD200/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ShreyabhiD200/DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -113,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyabhiD200/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShreyabhiD200/DSA/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShreyabhiD200/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ShreyabhiD200/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
