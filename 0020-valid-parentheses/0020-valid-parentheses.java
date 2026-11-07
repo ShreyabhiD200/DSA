@@ -9,7 +9,6 @@ class Solution {
                 if(stack.isEmpty()){
                     return false;
                 }
-
                 if(ch == ')' && stack.peek() == '('){
                     stack.pop();
                 } else if(ch == '}' && stack.peek() == '{'){
@@ -21,9 +20,6 @@ class Solution {
                 }
             }
         }
-        if(stack.isEmpty()){
-            return true;
-        }
-        return false;
+        return stack.isEmpty();
     }
 }
